@@ -4,7 +4,7 @@ I have a background as a teacher and linguist. Both of which still peak my inter
 
 ## All the gitHub things:
 - 🔭 I’m currently working on various digital tools for Roleplaying Games
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on what you think is cool!
 - 💬 Ask me about game mechanics and languages. 
 - 📫 How to reach me: send a message!
